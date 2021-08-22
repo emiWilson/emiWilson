@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @emiWilson
+- 👀 I’m interested in math, mountain biking and rocks. 
+- 🌱 I’m currently learning quantum computing and web development (currently more front end).
+- 💞️ I’m looking to collaborate on any projects that require creativity. 
+- 📫 How to reach me: emily.tc.wilson@gmail.com
